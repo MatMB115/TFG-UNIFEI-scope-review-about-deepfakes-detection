@@ -94,9 +94,16 @@ Compilado de informações que podem ser pertinentes para esse projeto.
 - https://github.com/FurkanGozukara/Stable-Diffusion
 
 ### Modelos Testados
+#### GenCONViT
+Funcional com dois modelos já treinados.
+- Github repo: https://github.com/erprogs/GenConViT
+- artigo: https://arxiv.org/pdf/2307.07036
+- HugginFace repo: https://huggingface.co/Deressa/GenConViT
+#### XceptionNet
 - https://github.com/HongguLiu/Deepfake-Detection - Funcional com modelo já treinado (3 modelos) - Base é o Faceforensis++
-- https://github.com/erprogs/GenConViT -  Funcional com dois modelos já treinados
-  
+#### MesoNet
+- repo: https://github.com/DariusAf/MesoNet
+
 ### Datasets
 - https://github.com/Daisy-Zhang/Awesome-Deepfakes
 - https://github.com/EndlessSora/DeeperForensics-1.0
