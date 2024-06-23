@@ -103,6 +103,9 @@ Funcional com dois modelos já treinados.
 - https://github.com/HongguLiu/Deepfake-Detection - Funcional com modelo já treinado (3 modelos) - Base é o Faceforensis++
 #### MesoNet
 - repo: https://github.com/DariusAf/MesoNet
+#### LipForensics
+- repo: https://github.com/ahaliassos/LipForensics
+- artigo: https://arxiv.org/abs/2012.07657
 
 ### Datasets
 - https://github.com/Daisy-Zhang/Awesome-Deepfakes
