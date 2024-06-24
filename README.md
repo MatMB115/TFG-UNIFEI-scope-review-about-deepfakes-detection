@@ -110,6 +110,9 @@ Funcional com dois modelos já treinados.
 #### LIPINC
 - repo: https://github.com/skrantidatta/LIPINC
 - artigo: https://arxiv.org/abs/2401.10113
+#### EficienteNet + Vision Transformer
+- repo: https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection
+- artigo: https://dl.acm.org/doi/abs/10.1007/978-3-031-06433-3_19
 ### Datasets
 - https://github.com/Daisy-Zhang/Awesome-Deepfakes
 - https://github.com/EndlessSora/DeeperForensics-1.0
