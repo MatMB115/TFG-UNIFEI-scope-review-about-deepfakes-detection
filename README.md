@@ -65,7 +65,7 @@ Encontrei uma tentativa de rodar uma versão limitado do DFL com um colab:
 - https://github.com/serengil/deepface
 
 ### Visual DeepFake Detection
-Permite a vizualização do comportamento da rede durante o treinamento e predição de deepfakes.
+Permite a visualização do comportamento da rede durante o treinamento e predição de deepfakes.
 - repo: https://github.com/dessa-oss/DeepFake-Detection
 
 ### Keras
